@@ -4,7 +4,7 @@ This is the official implementation of MTI2021 paper:["Deep Learning (DL)-Enable
 # Abstract
 Emotion care for human well-being is important for all ages. In this paper, we propose an emotion care system based on big data analysis for autism disorder patient training, where emotion is detected in terms of facial expression. The expression can be captured through a camera as well as Internet of Things (IoT)-enabled devices. The system works with deep learning techniques on emotional big data to extract emotional features and recognize six kinds of facial expressions in real-time and offline. A convolutional neural network (CNN) model based on MobileNet V1 structure is trained with two emotional datasets, FER-2013 dataset and a new proposed dataset named MCFER. The experiments on three strategies showed that the proposed system with deep learning model obtained an accuracy of 95.89%. The system can also detect and track multiple faces as well as recognize facial expressions with high performance on mobile devices with a speed of up to 12 frames per second.
 ![](/images/system.jpg)
-#Demo
+# Demo
 A screenshoot of developed android app
 ![](/images/demo.jpg)
 
