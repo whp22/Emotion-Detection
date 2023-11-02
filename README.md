@@ -6,8 +6,8 @@ Emotion care for human well-being is important for all ages. In this paper, we p
 ![](/images/system.jpg)
 
 <p float="left">
-  <img src="/images/demo.jpg" width="50%" />
-  <img src="/images/demo.jpg" width="50%" /> 
+  <img src="/images/demo.jpg" width="40%" />
+  <img src="/images/demo1.jpg" width="40%" /> 
 </p>
 
 
