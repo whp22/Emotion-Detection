@@ -7,7 +7,7 @@ Emotion care for human well-being is important for all ages. In this paper, we p
 
 ![](/images/demo.jpg | width=100)
 
-![](/images/demo1.jpg| width=100) 
+![](/images/demo1.jpg | width=100) 
 
 # Citation
 If you use this code, please cite the following:
